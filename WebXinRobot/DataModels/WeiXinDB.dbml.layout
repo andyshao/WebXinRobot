@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="WeiXinDB">
+  <DataContextMoniker Name="/WeiXinDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f2a39fe8-9e78-4ed8-a2ec-fd2c7da97fc7" absoluteBounds="1.125, 1.375, 2, 1.1677168782552083">
+      <DataClassMoniker Name="/WeiXinDBDataContext/TestTable" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f16abe13-2815-40f4-92e7-1f2feebc8509" absoluteBounds="1.1400000000000001, 1.835, 1.9700000000000002, 0.60771687825520826" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
